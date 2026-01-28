@@ -1,3 +1,2 @@
 # Python
-1 python learnng<br>
-lkcjoxidj
+1 python learnng
