@@ -9,5 +9,7 @@ elif(op== "-"):
     print("The subtracion of numbers is ",num1-num2)
 elif(op== "*"):
     print("The multiplication of numbers is ",num1*num2)
-else:
+elif(op== "/"):
     print("The division of numbers is ",num1/num2)
+else:
+    print("Invalid input. ")
